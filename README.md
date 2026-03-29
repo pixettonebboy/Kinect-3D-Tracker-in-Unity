@@ -1,6 +1,6 @@
 # Kinect Body Tracking for Unity
 
-A small Unity tool for **real-time body tracking using Microsoft Kinect**, which replicates the user's movements onto a **3D character model**.
+A small Unity tool for **real-time body tracking using Microsoft Kinect v1**, which replicates the user's movements onto a **3D character model**.
 It can be easily used for the Kinect game developing, any 3D model can be adapted.
 
 The project is built in **Unity 2023.2** and uses a **custom Kinect SDK integration** based on the official Microsoft Kinect SDK, adapted and modified to work smoothly inside Unity and to drive a humanoid 3D model.
@@ -19,7 +19,7 @@ The project is built in **Unity 2023.2** and uses a **custom Kinect SDK integrat
 # Requirements
 
 - **Unity 2023.2**
-- **Microsoft Kinect sensor**
+- **Microsoft Kinect v1 sensor**
 - **Kinect SDK for Windows**
 - Windows PC compatible with Kinect
 
